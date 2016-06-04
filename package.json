@@ -1,0 +1,21 @@
+{
+  "name": "cyprium-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Low-contrast theme inspired by the landscapes of Cyprus.",
+  "keywords": [
+    "syntax",
+    "light",
+    "yellow",
+    "orange",
+    "green"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protesilaos/cyprium-light-syntax.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
