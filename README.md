@@ -1,10 +1,14 @@
 # Cyprium syntax theme (light variant)
 
-A low-contrast theme inspired by the landscapes of Cyprus as they appear during the transition from spring to summer.
-
-Yellow is the most prevalent accent, followed by orange, and green.
+Low-contrast theme inspired by the landscapes of Cyprus. Yellow is the most prevalent accent, followed by orange, and green.
 
 Cyprium comes in both light and dark variants while using the same palette.
+
+Project page: [http://www.protesilaos.com/cyprium](http://www.protesilaos.com/cyprium)
+
+Light variant: [https://atom.io/themes/cyprium-syntax](https://atom.io/themes/cyprium-syntax)
+
+Dark variant: [https://atom.io/themes/cyprium-dark-syntax](https://atom.io/themes/cyprium-dark-syntax)
 
 ## Screenshots
 
@@ -15,16 +19,6 @@ Cyprium comes in both light and dark variants while using the same palette.
 ## Palette
 
 ![cyprium colour scheme](https://raw.githubusercontent.com/protesilaos/cyprium/master/img/cyprium_colours.png)
-
-## More info
-
-Project page: [http://www.protesilaos.com/cyprium](http://www.protesilaos.com/cyprium)
-
-Light variant: [https://atom.io/themes/cyprium-syntax](https://atom.io/themes/cyprium-syntax)
-
-Dark variant: [https://atom.io/themes/cyprium-dark-syntax](https://atom.io/themes/cyprium-dark-syntax)
-
-*Project in development. More languages will be added or otherwise refined.*
 
 ## Acknowledgement
 
