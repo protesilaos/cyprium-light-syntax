@@ -2,7 +2,7 @@
 
 Low contrast theme inspired by the landscapes of Cyprus. The most prevalent colours are variants of yellow, orange, green, cyan, and blue.
 
-*Cyprium* comes in standalone light and dark variants.
+*Cyprium* comes in standalone light and dark variants (see further info below).
 
 ## Screenshot
 
