@@ -6,7 +6,7 @@ Low contrast theme inspired by the landscapes of Cyprus. The most prevalent colo
 
 ## Screenshot
 
-![cyprium light screenshot](https://raw.githubusercontent.com/protesilaos/cyprium/master/img/cyprium_light_sample.png)
+![cyprium light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/cyprium/img/cyprium_light_sample.png)
 
 *The font in the screenshot is [Hack](https://github.com/chrissimpkins/Hack), set at 14px*.  
 *Demo code by http://codemirror.net/mode/javascript/index.html*  
