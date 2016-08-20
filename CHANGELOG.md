@@ -13,3 +13,7 @@
 
 ## 0.4.0
 - Rewrite `coffee.less` for visual consistency with JavaScript.
+
+## 1.0.0
+- Code rebase.
+- Improvements to Markdown and JavaScript.

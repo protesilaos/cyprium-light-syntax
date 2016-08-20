@@ -1,27 +1,27 @@
 # Cyprium syntax theme (light variant)
 
-Low-contrast theme inspired by the landscapes of Cyprus. Yellow is the most prevalent accent, followed by orange, and green.
+Low contrast theme inspired by the landscapes of Cyprus. The most prevalent colours are variants of yellow, orange, green, cyan, and blue.
 
-Cyprium comes in both light and dark variants while using the same palette.
+*Cyprium* comes in standalone light and dark variants.
 
-Project page: [http://www.protesilaos.com/cyprium](http://www.protesilaos.com/cyprium)
-
-Light variant: [https://atom.io/themes/cyprium-syntax](https://atom.io/themes/cyprium-syntax)
-
-Dark variant: [https://atom.io/themes/cyprium-dark-syntax](https://atom.io/themes/cyprium-dark-syntax)
-
-## Screenshots
-
-![cyprium dark screenshot](https://raw.githubusercontent.com/protesilaos/cyprium/master/img/cyprium_dark_sample.png)
+## Screenshot
 
 ![cyprium light screenshot](https://raw.githubusercontent.com/protesilaos/cyprium/master/img/cyprium_light_sample.png)
 
-## Palette
+*The font in the screenshot is [Hack](https://github.com/chrissimpkins/Hack), set at 14px*.  
+*Demo code by http://codemirror.net/mode/javascript/index.html*  
+*The UI theme is https://atom.io/themes/atom-material-ui*.
 
-![cyprium colour scheme](https://raw.githubusercontent.com/protesilaos/cyprium/master/img/cyprium_colours.png)
+## Download
 
-## Acknowledgement
+Search for `cyprium-syntax` in Settings > Install > Themes. Or install it directly using the command:
 
-The actual code structure is adapted from Simurai's excellent [DuoTone syntax theme](https://github.com/simurai/duotone-syntax). Contrary to DuoTone, Cyprium uses a 16-colour palette hence the need for adjustments.
+```shell
+apm install cyprium-syntax
+```
 
-Simurai's work is protected by the inclusion of the original MIT License (`license-original.md`).
+## Further information
+
+Project page: [http://www.protesilaos.com/cyprium](http://www.protesilaos.com/cyprium)
+
+Cyprium dark version: [https://atom.io/themes/cyprium-dark-syntax](https://atom.io/themes/cyprium-dark-syntax)
