@@ -22,6 +22,6 @@ apm install cyprium-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/cyprium](http://www.protesilaos.com/cyprium)
+Project page: [https://protesilaos.com/cyprium](https://protesilaos.com/cyprium)
 
 Cyprium dark version: [https://atom.io/themes/cyprium-dark-syntax](https://atom.io/themes/cyprium-dark-syntax)
