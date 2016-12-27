@@ -22,3 +22,9 @@
 - Refinements to JavaScript.
 - Refinements to Markdown.
 - Minor improvements to editor styles.
+
+## 1.2.0
+- Added macro highlighting for Rust.
+- Update palette
+  - `red` from `#C36A5F` to `#A36A5F`
+  - `blu` from `#3C959A` to `#5C959A`
