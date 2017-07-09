@@ -31,3 +31,16 @@
 
 ## 2.0.0
 - Atom `1.13.0` no longer supports shadow DOM boundaries (see http://blog.atom.io/2016/11/14/removing-shadow-dom-boundary-from-text-editor-elements.html). Included necessary `.syntax--` where relevant.
+
+## 2.1.0
+- Palette refinements
+    - `dt1` from `A7B9A4` to `82a394`
+    - `dt2` from `879984` to `879464`
+    - `lt1` from `6B695A` to `6e7b54`
+    - `lt2` from `9B998A` to `9299aa`
+    - `red` from `A36A5F` to `b86a5c`
+    - `gre` from `6B8C4A` to `669252`
+    - `cya` from `5C9B85` to `4c9b94`
+    - `blu` from `5C959A` to `5c8c9e`
+    - `vio` from `8B85BA` to `8B85ac`
+    - `mag` from `BB6384` to `bc7374`
